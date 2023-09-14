@@ -52,3 +52,16 @@ The code is organized into multiple files for better modularity:
 - `sdef.py`: A module containing functions to play sound or text-to-speech notifications for each period (currently commented out).
 
 ## Output
+
+# Display
+
+![display](https://github.com/Praveen880890/Mrcet_time_table/assets/76040957/7726b31a-c2c2-4707-ae74-e217481b6a36)
+
+# Excel Data
+
+![excel_data](https://github.com/Praveen880890/Mrcet_time_table/assets/76040957/b6056d3a-5656-4f33-8aa6-b673f15ec213)
+
+# Instructions
+
+![instructions](https://github.com/Praveen880890/Mrcet_time_table/assets/76040957/35ee8f08-c9ee-4c20-9ad6-9fed84b61d98)
+
